@@ -1,9 +1,18 @@
 # Google Search UI Test Suite
 
 ## Test cases
+Search functionality of a website can have following test cases:- 
+1. Test the auto suggest feature of search funcationality.
+2. Verify the search and resest buttons on the UI.
+3. Validate if search query exists on search result page.
+4. Assert if the search results are sorted as per default sorting order which is mostly as per relevance
+5. Assert pagination if search results span more than 1 page.
+
+
 <br/>This web automated test suite contains 2 test cases
 1.  Test if the auto suggest feature of the search box is working fine.
 2.  Test if the search query is having correct results on the search result page.
+
 
 ## Solution includes the following:
 
